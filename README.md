@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlueberryDoesLinux
+- 👋 Hi, I’m Robert
 - 👀 I’m interested in gaming and tech
 - 🌱 I’m currently learning how to properly use Linux
 - 💞️ I’m looking to collaborate on StreetMerchant
