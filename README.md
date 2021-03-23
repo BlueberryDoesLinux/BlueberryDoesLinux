@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">I'm not a developer. I'm just a guy interested in computers.q</h3>
+<h3 align="center">I'm not a developer. I'm just a guy interested in computers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueberrydoeslinux&label=Profile%20views&color=0e75b6&style=flat" alt="blueberrydoeslinux" /> </p>
 
