@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anime or tech!**
 
-- 📫 How to reach me **My discord is Blueberry#4316**
+- 📫 You can reach me on Discord at **Blueberry#4316**
 
 
 <h3 align="left">Languages and Tools:</h3>
