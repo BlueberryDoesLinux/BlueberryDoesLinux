@@ -14,7 +14,7 @@
 
 <h3 align="left">Build Info</h3>
 <img src="https://img.shields.io/badge/Ubuntu-Alienware_m15-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 <img src="https://img.shields.io/badge/NVIDIA-GTX1660_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Ram-16GB-0071C5?style=for-the-badge" />
 
