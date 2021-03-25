@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert</h1>
+<h1 align="center">Hi 👋, I'm Blueberry</h1>
 <h3 align="center">I'm not a developer. I'm just a guy that knows a lot about computers.</h3>
   
 - 🌱 I’m currently learning **how to use Linux properly!**
