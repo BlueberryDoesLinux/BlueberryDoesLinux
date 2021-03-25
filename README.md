@@ -8,7 +8,7 @@
 - ⚡ Fun fact **2+2=5**  
   
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
