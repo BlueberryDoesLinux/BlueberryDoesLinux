@@ -14,6 +14,7 @@
 
 <h3 align="left">Build Info</h3>
 <img src="https://img.shields.io/badge/Ubuntu-Alienware_m15-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
 Add other build stuff later
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blueberrydoeslinux&show_icons=true&locale=en" alt="blueberrydoeslinux" /></p>
